@@ -48,13 +48,13 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, eu sou a {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            Eu{" "}
+            Aqui{" "}
               <Text as="span" type="heading1" color="brand1">
-                amo
+                estão
               </Text>{" "}
-              criar e {" "}
+              os meus  {" "}
               <Text as="span" type="heading1" color="brand1">
-                desenvolver
+                mais recentes
               </Text>{" "}
               projetos
             </Text>
